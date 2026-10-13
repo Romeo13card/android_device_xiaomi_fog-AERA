@@ -8,6 +8,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_fog.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_fog-user \
-    twrp_fog-userdebug \
-    twrp_fog-eng
+    twrp_fog-bp2a-eng
